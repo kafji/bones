@@ -1,6 +1,6 @@
 [package]
 name = "bones"
-version = "0.0.1"
+version = "0.1.0"
 authors = ["Kafji <k@kafji.net>"]
 edition = "2018"
 license = "MIT OR Apache-2.0"
